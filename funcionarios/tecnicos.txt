@@ -1,0 +1,75 @@
+Ana Silva
+234.567.890-12
+10/03/1983
+Feminino
+Rua X
+567
+Bairro6
+Cidade6
+567
+4500
+Departamento6
+35
+15/02/2022
+500
+Manutenção
+José Oliveira
+876.543.210-98
+25/06/1975
+Masculino
+Rua Y
+321
+Bairro7
+Cidade7
+321
+4200
+Departamento7
+30
+20/02/2022
+600
+Suporte Técnico
+Maria Costa
+111.222.333-44
+03/12/1992
+Feminino
+Rua Z
+987
+Bairro8
+Cidade8
+987
+4800
+Departamento8
+38
+25/02/2022
+400
+Desenvolvimento de Software
+Carlos Santos
+555.666.777-88
+18/08/1980
+Masculino
+Rua W
+654
+Bairro9
+Cidade9
+654
+5200
+Departamento9
+42
+01/03/2022
+550
+Redes de Computadores
+Fernanda Lima
+999.888.777-66
+07/04/1989
+Feminino
+Rua V
+789
+Bairro10
+Cidade10
+789
+4900
+Departamento10
+32
+05/03/2022
+700
+Banco de Dados1
